@@ -1,5 +1,8 @@
 # Karmaform
 
+![Alt text](karmaform-thumb.jpg?raw=true "Karmaform - Font Download by DSGN.CO")
+
+
 A font Made by DSGN.CO
 Karmaform is free for personal use.
 
